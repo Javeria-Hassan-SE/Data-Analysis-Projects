@@ -40,7 +40,7 @@ Open the Jupyter notebooks (.ipynb files) using Jupyter Notebook or Jupyter Lab.
 Execute the cells to run the code and visualize the results.
 
 
-###Contribute:
+### Contribute:
 
 Feel free to contribute by submitting bug reports, feature requests, or your own data analysis projects.
 Follow standard GitHub practices for forking the repository and creating pull requests.
